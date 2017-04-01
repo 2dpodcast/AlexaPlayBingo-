@@ -1,4 +1,6 @@
 # TODO
+- sound out number, eg 1 and 0, 10
+- wordy version, 11= legs eleven
 - do not repeat numbers
 - ability to start new game
 - ability to repeat last number

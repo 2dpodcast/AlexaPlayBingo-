@@ -14,6 +14,7 @@ https://github.com/claudiajs/example-projects/tree/master/dynamodb-example - cos
 # Questions?
 - how to have a dev and prod version from same code?
 - update alexa info from claudia/command line?
+- multiple source files/require etc - does that work
 
 # create
 ./node_modules/.bin/claudia create --region us-east-1 --handler index.handler --profile claudia

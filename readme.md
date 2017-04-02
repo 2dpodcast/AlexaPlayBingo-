@@ -2,9 +2,14 @@
 - sound out number, eg 1 and 0, 10
 - wordy version, 11= legs eleven
 - do not repeat numbers
+-- need to id user/game and persist nums
+https://github.com/claudiajs/example-projects/tree/master/dynamodb-example - cost?
 - ability to start new game
 - ability to repeat last number
+- Add max number to app description , also link to twitter page (AlexaCaller)
+- Send help / feature request from app - tweet, perhaps
 - ability to change maximum ball - fixed at 75 currently
+- shared game across locations, devices
 
 # Questions?
 - how to have a dev and prod version from same code?

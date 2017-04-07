@@ -24,3 +24,7 @@ https://github.com/claudiajs/example-projects/tree/master/dynamodb-example - cos
 
 # test
 ./node_modules/.bin/claudia test-lambda --profile claudia
+
+# for other regions
+./node_modules/.bin/claudia create --region eu-west-1 --handler index.handler --profile claudia --config claudia-eu.json
+./node_modules/.bin/claudia update --profile claudia --config claudia-eu.json

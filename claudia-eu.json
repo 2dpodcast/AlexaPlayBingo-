@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "alexa_play_bingo-executor",
+    "name": "alexa_play_bingo",
+    "region": "eu-west-1"
+  }
+}
